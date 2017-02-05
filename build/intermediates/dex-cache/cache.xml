@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Development\androidworkspace\AndroidGeocodeLocation\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="f406f9e564bf60c5ada4e4b97f5ac88a9304af43">
+        <dex dex="C:\Development\androidworkspace\AndroidGeocodeLocation\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_3b4e5b010010d99c70c886d7b034169ddc9c0eb3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Development\androidworkspace\AndroidGeocodeLocation\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="9d79582717208d31551dc8eb4530ef516a6e890c">
+        <dex dex="C:\Development\androidworkspace\AndroidGeocodeLocation\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_ea97a34e87805e3547ad9483257299e28ae1ab55\classes.dex" />
+    </item>
+
+</items>

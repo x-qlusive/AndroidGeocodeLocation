@@ -1,0 +1,47 @@
+TASK android.javapapers.com.androidgeocodelocation id=21
+  ACTIVITY android.javapapers.com.androidgeocodelocation/.MyActivity 6a91f71 pid=3288
+    Local Activity bd00323 State:
+      mResumed=false mStopped=true mFinished=false
+      mChangingConfigurations=false
+      mCurrentConfig={1.0 310mcc260mnc [en_US] ldltr sw360dp w360dp h568dp 480dpi nrml port finger qwerty/v/v dpad/v s.6}
+      mLoadersStarted=true
+      FragmentManager misc state:
+        mHost=android.app.Activity$HostCallbacks@8355d98
+        mContainer=android.app.Activity$HostCallbacks@8355d98
+        mCurState=3 mStateSaved=true mDestroyed=false
+    ViewRoot:
+      mAdded=true mRemoved=false
+      mConsumeBatchedInputScheduled=false
+      mConsumeBatchedInputImmediatelyScheduled=false
+      mPendingInputEventCount=0
+      mProcessInputEventsScheduled=false
+      mTraversalScheduled=false      mIsAmbientMode=false
+      android.view.ViewRootImpl$NativePreImeInputStage: mQueueLength=0
+      android.view.ViewRootImpl$ImeInputStage: mQueueLength=0
+      android.view.ViewRootImpl$NativePostImeInputStage: mQueueLength=0
+    Choreographer:
+      mFrameScheduled=false
+      mLastFrameTime=317082 (297787 ms ago)
+    View Hierarchy:
+      DecorView@ccd59f1[MyActivity]
+        com.android.internal.widget.ActionBarOverlayLayout{63ce9d6 V.ED..... .......D 0,0-1080,1776 #10203ed android:id/decor_content_parent}
+          android.widget.FrameLayout{8b2f457 V.E...... .......D 0,216-1080,1776 #1020002 android:id/content}
+            android.widget.RelativeLayout{ceebb44 V.E...... .......D 0,0-1080,1560}
+              android.widget.TextView{94ca42d V.ED..... ........ 48,48-527,105 #7f080000 app:id/textView}
+              android.widget.Button{775cd62 VFED..C.. ......ID 48,264-397,408 #7f080001 app:id/btnGPSShowLocation}
+              android.widget.Button{d887ef3 VFED..C.. ......ID 48,408-389,552 #7f080002 app:id/btnShowAddress}
+              android.widget.TextView{cbe47b0 V.ED..... ........ 48,1053-1032,1110 #7f080003 app:id/tvAddress}
+          com.android.internal.widget.ActionBarContainer{8fc5629 V.ED..... ......ID 0,72-1080,216 #10203ee android:id/action_bar_container}
+            com.android.internal.widget.ActionBarView{2675dae V.E...... .......D 0,0-1080,144 #10203ef android:id/action_bar}
+              android.widget.LinearLayout{722174f V.....C.. ......ID 25,0-804,144}
+                com.android.internal.widget.ActionBarView$HomeView{2b82edc V.E...... .......D 0,0-120,144}
+                  android.widget.ImageView{db2be5 G.ED..... ......I. 0,0-0,0 #102004b android:id/up}
+                  android.widget.ImageView{ccfa6ba V.ED..... ......ID 12,24-108,120 #102002c android:id/home}
+                android.widget.LinearLayout{712d96b V.E...... ........ 120,35-779,108}
+                  android.widget.TextView{5075cc8 V.ED..... ........ 0,0-635,73 #1020314 android:id/action_bar_title}
+                  android.widget.TextView{d17a161 G.ED..... ......I. 0,0-0,0 #1020315 android:id/action_bar_subtitle}
+              android.widget.ActionMenuView{8417486 V.ED..... ......ID 1080,0-1080,144}
+            com.android.internal.widget.ActionBarContextView{b03a147 G.E...... ......ID 0,0-0,0 #10203f0 android:id/action_context_bar}
+          com.android.internal.widget.ActionBarContainer{f997d74 G.ED..... ......ID 0,0-0,0 #10203f1 android:id/split_action_bar}
+    Looper (main, tid 1) {44bf29d}
+      (Total messages: 0, polling=false, quitting=false)
